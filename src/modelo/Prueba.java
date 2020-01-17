@@ -14,4 +14,8 @@ public class Prueba {
     private int b;
     private int c;
     
+    public void Calculadora(){
+        
+    }
+    
 }
