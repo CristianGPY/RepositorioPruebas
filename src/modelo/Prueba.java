@@ -10,6 +10,8 @@ package modelo;
  * @author CristianGPY
  */
 public class Prueba {
-    
+    int a;
+    int b;
+    int c;
     
 }
