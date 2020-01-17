@@ -15,7 +15,7 @@ public class Prueba {
     private int c;
     
     public void Calculadora(){
-        
+        int todo;
     }
     
 }
